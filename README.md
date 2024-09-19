@@ -27,6 +27,7 @@ project-root/
 ├── noise_sp2.py   # Script for digital_sp_line2.png
 ├── images/                # Folder containing sample images used in the project
 └── README.md              # Project description (this file)
+```
 
 ## Installation & Setup
 
@@ -35,9 +36,29 @@ To get started, clone the repository from GitHub to your local machine:
 ```bash
 git clone https://github.com/bartutaskin/Image-Processing.git
 cd Image-Processing
+```
 
 ### Install Dependencies:
 pip install opencv-python matplotlib numpy
 
 ### Running the Project:
 python noise.py
+
+## Example Output
+
+Here are some examples of my work on noisy images:
+![Examples](examples.png)
+
+## Future Improvements
+- Implementing digit recognition using machine learning or deep learning.
+- Extending the project to process real-time images or video streams.
+- Improving the accuracy of contour detection with advanced algorithms.
+
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you wish.
+
+## Contact
+For any questions or collaboration, feel free to reach out to me at:  
+**GitHub**: [bartutaskin](https://github.com/bartutaskin)  
+**Email**: bartutaskin35@gmail.com
+
